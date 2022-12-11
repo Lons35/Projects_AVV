@@ -4,4 +4,4 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | AB-тестирование изменений в интернет-магазине | ВПроверить соответствие параметраметрам технического задание и оценить корректность проведения теста. Проанализировать результаты теста. | *pandas, datetime, seaborn, matplotlib, plotly, math, scipy, numpy* |
 
-Ссылка для отображения всех графиков в проекте - https://nbviewer.org/github/Lons35/Projects_AVV/blob/main/AB-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5/AB_test_internet_shop_final.ipynb
+Ссылка для отображения всех графиков в проекте [жми](https://nbviewer.org/github/Lons35/Projects_AVV/blob/main/AB-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B5/AB_test_internet_shop_final.ipynb)
